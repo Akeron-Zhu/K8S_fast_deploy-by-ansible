@@ -1,0 +1,10 @@
+(1/10): conntrack-tools-1.4.4-7.el7.x86_64.rpm                                     | 187 kB  00:00:07     
+(2/10): afa24df75879f7793f2b22940743e4d40674f3fcb5241355dd07d4c91e4866df-kubeadm-1 | 8.3 MB  00:00:12     
+(3/10): 14bfe6e75a9efc8eca3f638eb22c7e2ce759c67f95b43b16fae4ebabde1549f3-cri-tools | 5.1 MB  00:00:14     
+(4/10): c1fdeadba483d54bedecb0648eb7426cc3d7222499179911961f493a0e07fcd0-kubectl-1 | 9.0 MB  00:00:12     
+(5/10): libnetfilter_cthelper-1.0.0-11.el7.x86_64.rpm                              |  18 kB  00:00:00     
+(6/10): libnetfilter_queue-1.0.2-2.el7_2.x86_64.rpm                                |  23 kB  00:00:00     
+(7/10): libnetfilter_cttimeout-1.0.0-7.el7.x86_64.rpm                              |  18 kB  00:00:03     
+(8/10): socat-1.7.3.2-2.el7.x86_64.rpm                                             | 290 kB  00:00:03     
+(9/10): db7cb5cb0b3f6875f54d10f02e625573988e3e91fd4fc5eef0b1876bb18604ad-kubernete |  19 MB  00:00:35     
+(10/10): 318243df021e3a348c865a0a0b3b7d4802fe6c6c1f79500c6130d5c6b628766c-kubelet- |  19 MB  00:00:48   

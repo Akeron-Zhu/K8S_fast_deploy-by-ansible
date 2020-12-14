@@ -1,0 +1,12 @@
+audit-libs-python            x86_64       2.8.5-4.el7                       base                    76 k
+checkpolicy                  x86_64       2.5-8.el7                         base                   295 k
+container-selinux            noarch       2:2.119.2-1.911c772.el7_8         extras                  40 k
+containerd.io                x86_64       1.3.9-3.1.el7                     docker-ce-stable        29 M
+docker-ce-cli                x86_64       1:19.03.14-3.el7                  docker-ce-stable        38 M
+libcgroup                    x86_64       0.41-21.el7                       base                    66 k
+libseccomp                   x86_64       2.3.1-4.el7                       base                    56 k
+libsemanage-python           x86_64       2.5-14.el7                        base                   113 k
+policycoreutils-python       x86_64       2.5-34.el7                        base                   457 k
+python-IPy                   noarch       0.75-6.el7                        base                    32 k
+setools-libs                 x86_64       3.3.8-4.el7                       base                   620 k
+
